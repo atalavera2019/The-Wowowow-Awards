@@ -1,5 +1,5 @@
 body{
-    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmVZRXCsZechSB06fdtEneTR3PF_VPu4wQplj-tYhQnXvlRyFF");
+    background-image:url("http://www.cndajin.com/data/wls/14/4451691.gif");
 }
 h1{
     text-align:center;
@@ -8,7 +8,12 @@ h1{
 h2{
     text-align:center;
     font-family: 'Patrick Hand', cursive;
+    color:yellow;
 }
 h3{
     text-align:center;
+}
+li{
+ font-family: 'Anton', sans-serif;   
+ color:red;
 }
